@@ -255,7 +255,7 @@ Developer tidak bertanggung jawab atas penyalahgunaan project ini.
 ## 👨‍💻 Author
 
 <p align="center">
-  Made with 🐍 Python
+  s.fajar
 </p>
 
 <p align="center">
