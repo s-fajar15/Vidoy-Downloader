@@ -255,7 +255,7 @@ Developer tidak bertanggung jawab atas penyalahgunaan project ini.
 ## 👨‍💻 Author
 
 <p align="center">
-  s.fajar
+  <b>S.FAJAR15</b>
 </p>
 
 <p align="center">
