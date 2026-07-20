@@ -1,12 +1,15 @@
-import os
-import re
-import subprocess
+"""
+Vidoy Downloader
+by s.fajar15
+
+Created : 2026-07-20
+Version : 1.0.0
+"""
+
+import os, re, subprocess, requests
 from dataclasses import dataclass
-from typing import Optional
-
-import requests
+from typing import Optional 
 from rich.progress import BarColumn, DownloadColumn, Progress, TimeRemainingColumn, TransferSpeedColumn
-
 STREAM_URL = "https://vdy.to/stream.php"
 USER_AGENT = "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Mobile Safari/537.36"
 CHUNK_SIZE = 1024 * 1024
