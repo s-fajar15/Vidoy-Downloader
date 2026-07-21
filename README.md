@@ -121,13 +121,13 @@ pip install requests rich
 Clone repository:
 
 ```bash
-git clone https://github.com/USERNAME/vidoy-downloader.git
+git clone https://github.com/s-fajar15/Vidoy-Downloader
 ```
 
 Masuk ke folder project:
 
 ```bash
-cd vidoy-downloader
+cd Vidoy-Downloader
 ```
 
 Install dependency:
